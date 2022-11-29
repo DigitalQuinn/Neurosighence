@@ -2,8 +2,6 @@
 Hello guys, as you may/not know, I want to become a Neuroscientist, so I'd like to share resources that I find and possibly end up using, meanwhile creating a Neuroscience repo for others
 
 
-# IonicBrain
-
 # Neuroscience / BCI
 
 [OpenBCI](https://openbci.com/) — Open source tools for biosensing and neuroscience
