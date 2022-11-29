@@ -1,2 +1,271 @@
 # Neurosighence
-SLOWLY starting my pivot into Neuroscience 
+Hello guys, as you may/not know, I want to become a Neuroscientist, so I'd like to share resources that I find and possibly end up using, meanwhile creating a Neuroscience repo for others
+
+
+# IonicBrain
+
+# Neuroscience / BCI
+
+[OpenBCI](https://openbci.com/) — Open source tools for biosensing and neuroscience
+    
+
+# Neuroscience Books
+## Computational Neuroscience
+- Principles of Neural Science
+- Theoretrical Neuroscience
+  - Biological Neuroscience
+    - Computational Psychiatry
+- Behave by Robert Sapolsky
+- Evil Genes
+- Do Zombies Dream of Undead Sheep?
+- Books from Oliver Sacks
+    - The Man Who Mistook His Wife as a Hat
+- Phantoms in the Brain
+- Beautiful Brain
+- Kandel Principles of Neuroscience
+- Why Zebras Don’t Get Ulcers
+- The Neuroscience of You: How Every Brain Is Different & How to Understand Yours
+- Clinical Neuroanatomy Made Ridiculously Simple
+- The Neurologic Examination: Scientific Basis for Clinical Diagnosis
+- Disruptive Psychopharmacology (Current Topic in Behavioral Neuroscience)
+- A Practical Guide to Transcranial Magnetic Simulation Neurophysiology & Treatment Studies
+- The Sound of Being Human: How Music Shapes Our Lives
+- The Cortex & the Critical Point: Understanding the Power of Emergence
+- A Thousand Brains: A New Theory of Intelligence
+- Mother Brain: How Neuroscience is Rewriting the Story of Parenthood
+- EGG / MEG Source Reconstruction: Textbook for Electro-and Magnetoencephalograpy
+- PTSDreams: Transform Your Nightmares from Trauma Through Healing Dreamwork
+- Neuroscience, Psychotherapy & Clinical Pragmatism: Reflective Practice & Therapeutic Action (Psychoanalytic Explorations)
+- Cyborg Mind: What Brain-Computer & Mind-Cyberspace Interfaces Mean for Cyberneuroethics
+- Handbook of Neuroengineering
+- The Central Nervous System
+- The Tale of Dueling Neurosurgeons
+- The Violinist’s Thumb
+- In Search of Memory
+- Neuroscience: Exploring the Brain
+- Neuroscience for Dummies
+- My Stroke of Insight
+- Everything, by Daniel Seigel
+- Memoirs of an Addicted Brain: A Neuroscientist Examines his Former Life on Drugs
+- The Human Brain Book
+- The Biological Mind
+- The Brain: The Story of You
+- Rhythms of the Brain
+- Beyond the Zonuels of the Gods
+- Cognitive Neuroscience: The Biology of the Mind
+- Remebering: WHat 50 Years of Research w/ Famous Amnesia Patient H.M Can Teach Us About Memory & How It Works
+- The New Mind Readers: What Neuroimaging Can & Cannot Reveal About Our Thoughts
+- Better with Age: The Psychology of Successful Aging
+- Understanding the Brain: From Cells to Behavior Congition
+- The Neuroscience of Emotion: A New Synthesis
+- Happy Brain: Where Happiness Comes From, & Why
+- Lessons from the Lobster: Eve Marder’s Work in Neuroscience
+- The Biological Mind: How Brain, Body, & Enviroment Collaborate to Make Us Who We Are
+- Proust & The Squid: The Story & Science of the Reading Brain & Tales of Literacy for the 21st Century
+- Our Brain: The Origins of a Uniquely Human Capacity
+- Creativity: The Human Brain in the New Age of Innovation
+- The Spaces Between Us: A Story of Neuroscience, Evolution, & Human Nature
+- The Forgetting Machine: Memory, Perception, & the “Jennifer Aniston Neuron”
+- On Intelligence
+- Brain Rules for Aging Well: 10 Principles for Staying Vital, Happy, & Sharp
+- Language at the Speed of Sight: How We Read, Why So Many Can’t Count, & What Can Be Done About It
+- How Emotions Are Made
+- The Human Advantage: How Our Brain Became
+- Mind & Brain: A Critical Appraisal of Cognitive Neuroscience
+- Dragons of Eden
+- Are You Sure? The Unconscious Origins of Certainty
+- On Being Certain: Believing You’re Right, Even When You’re Not
+- The Acient Origins of Consciousness: How The Brain Created Experience
+- Placebo Effect: Understanding the Mechanisms in Health & Disease
+- Surfing Uncertainty: Prediction, Action, & The Embodied Mind
+- After PrenologyL Neural Reuse & The Interactive Brain
+- Redical Embodied Cognitive Science & Phenomenology: An Introduction w/ Stephan Kaufer
+- How Do You Feel?: An Interoceptive Moment w/ Your Neurobological Self
+- Tales From Both Sides of the Brain: A Life in Neuroscience
+- The Brain’s Way of Healing: Remarkable Discoveries & Recoveries from the Frontiers of Neuroplasticity
+- The Brain That Changes Itself
+- Waking, Dreaming, Being: Self & Consciousness in Neuroscience, Meditation, & Philosophy
+- Neuroplasticity & Healing
+- The Myth of Mirror Neurons: The Real Neuroscience of Communication & Cognition
+- Mirrors in the Brain: How Our Minds Share Actions, Emotions, & Experience
+- Spark: The Revolutionary New Science of Exercise & the Brain
+- A User’s Guide to the Brain: Perception, Attention, & The FOur Theaters of the Brain
+- Soft-Wired: How the New Science of Brain Plasticity Can Change Your Life
+- Brainwashed: The Seductive Appeal of Mindless Neuroscience
+- NeuromaniaL On the Limits of Brain Science
+- Mankind: Neuromania, Darwinitis & the Misrepresentation of Humanity
+- Neuro: The New Brain Sciences & the Management of the Mind
+- Addiction: A Disorder of Choice
+- Consciousness & the Social Brain
+- A Skeptic’s Guide to the Mind: What Neuroscience Can & Cannot Tell Us About Ourselves
+- The Secret World of Sleep: The Surprising Science of the Mind
+- Dreamland: Adventures in the Strange Science of Sleep
+- Dreaming: A Very Short Introduction
+- The Cognitive-Emotional Brain: From Interactions to Integration
+- Networks of the Brain
+- In Search of Memory: The Emergence of a New Science of Mind
+- Beyond Boundaries: The New Neuroscience of Connecting Brains w/ Machines & How It Will Change Our Lives
+- Discovering the Human Connectome
+- We Are Our Brains
+- After Prenology
+- The Accidential Mind
+- Musicophelia
+- Nigg: What is ADHD?
+- Neuroanatomy: Draw It to Know It
+- Anatomy
+- How the Brain Makes Up Its Mind
+- Thinking in Pictures
+- Surely You Must Be Joking Mr. Feynman
+- [Saving Normal: An Insider's Revolt Against Out-of-Control Psychiatric Diagnosis, DSM-5, Big Pharma, and the Medicalization of Ordinary Life](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0062229257%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840662314%26amp;usg%3DAOvVaw3aGG6-uFrJyoqVIHOERGoN&sa=D&source=docs&ust=1659283840727689&usg=AOvVaw1RJ-nW90oizs-n6HPiPgqj)
+- [Choosing Wisely](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://www.choosingwisely.org/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840662569%26amp;usg%3DAOvVaw3SLaHRghQTwVbJMGklgDDN&sa=D&source=docs&ust=1659283840727787&usg=AOvVaw0cJBVUlNZPuH8-hdaOC4L0): a resource for reducing the overuse of tests and other medical procedures
+- [The Book of Woe: The DSM and the Unmaking of Psychiatry](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0399158537%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840662861%26amp;usg%3DAOvVaw2MArIa60ncKtrzyN1K_ZLA&sa=D&source=docs&ust=1659283840727887&usg=AOvVaw1gDUsWQIJ1qDxdvs34uPnz)
+- [Hippocrates Cried: The Decline of American Psychiatry](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0199948062%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840663205%26amp;usg%3DAOvVaw1ASPDP3DRt3NbkW8Nkaf6Q&sa=D&source=docs&ust=1659283840727997&usg=AOvVaw3feNrvySzQxkv-562Yd2PP)
+- [The Encultured Brain: An Introduction to Neuroanthropology](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://traffic.libsyn.com/brainsciencepodcast/97-BSP-neuroanthropology.mp3%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840663523%26amp;usg%3DAOvVaw09W1p9MZuwSVQyp42J5icm&sa=D&source=docs&ust=1659283840728089&usg=AOvVaw2ewMV8wBNPCtWTiGCWJVKP)
+- [Balance between cultures: equilibrium training](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://neuroanthropology.net/2008/11/30/balance-between-cultures-equilibrium-training/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840664098%26amp;usg%3DAOvVaw0bQcQhOGoT-p42mbW6L0O3&sa=D&source=docs&ust=1659283840728191&usg=AOvVaw21m9DWwRJlDFXJQgbyno7K)
+- [Principles of Brain Evolution](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0878938206/002-2392472-2211269%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840664661%26amp;usg%3DAOvVaw0skQiNP9NruIQ-4cq2nsQt&sa=D&source=docs&ust=1659283840728301&usg=AOvVaw0QkzNa9ZR1ZyEKXwoQHJNj)
+- An Enquiry Concerning Human Understanding
+- U[nderstanding Pain: Exploring the Perception of Pain,U](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0262018047%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840665105%26amp;usg%3DAOvVaw34lLFAEzMRYtWcCmN5_1Ub&sa=D&source=docs&ust=1659283840728431&usg=AOvVaw361bAYED5MSp7m2zGOFW9B)
+- [Louder Than Words: The New Science of How the Mind Makes Meaning](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0465028292%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840665398%26amp;usg%3DAOvVaw39PNWXYjB5K3IVwWFBoIU-&sa=D&source=docs&ust=1659283840728518&usg=AOvVaw0jyKHFQol4051U9F6CLbJL)
+- [Philosophy in the Flesh : The Embodied Mind and Its Challenge to Western Thought](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0465056741/102-0589225-8424144%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840665775%26amp;usg%3DAOvVaw3pU2vC7SsMNw77o5r7P9na&sa=D&source=docs&ust=1659283840728637&usg=AOvVaw0Y53IFgxtjYIxOCVvO25hh)
+- [The Archaeology of Mind: Neuroevolutionary Origins of Human Emotions](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0393705315%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840666136%26amp;usg%3DAOvVaw2ev7n8LfL17DiaKse4dXd8&sa=D&source=docs&ust=1659283840728730&usg=AOvVaw36uQ10aB-2-9fgl8sacxw_)
+- [Affective Neuroscience: The Foundations of Human and Animal Emotions](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/019517805X%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840666420%26amp;usg%3DAOvVaw0rIb3-uzDMj5roRuJQRIvg&sa=D&source=docs&ust=1659283840728818&usg=AOvVaw22oCUL7_AKx4vNR9RJ4kFc)
+- [Self Comes To Mind: Constructing the Conscious Brain](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0307378756%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840666699%26amp;usg%3DAOvVaw3UAk_bRhFkDeIbOKSvdUec&sa=D&source=docs&ust=1659283840728906&usg=AOvVaw3xoMtB0keudyoU8XRAd94w)
+- [The Feeling of What Happens: Body and Emotion in the Making of Consciousness](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0156010755%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840666967%26amp;usg%3DAOvVaw2ecRdnalESQkXg5ERKaTPt&sa=D&source=docs&ust=1659283840728992&usg=AOvVaw3lZHo_hKeZg8MW3_g0vdEh)
+- [Mind in Life: Biology, Phenomenology, and the Sciences of Mind](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0674057511%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840667291%26amp;usg%3DAOvVaw0TmeOc6SrWlPtDHSXEjnKU&sa=D&source=docs&ust=1659283840729091&usg=AOvVaw0VLAOyGrkMZmXJ3c_wvk-U)
+- [I of the Vortex: From Neurons to Self](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0262621630%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840667588%26amp;usg%3DAOvVaw1EhgBblLOBwE4I7v33xfqm&sa=D&source=docs&ust=1659283840729179&usg=AOvVaw0tmllUiDTRleO67Rp7caPb)
+- [Incomplete Nature: How Mind Emerged from Matter](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0393049914%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840667853%26amp;usg%3DAOvVaw1G39XxUJzgsngoj_CbqEwM&sa=D&source=docs&ust=1659283840729295&usg=AOvVaw3dxxhz8Z8w0bnztJhLLqWm)
+- [Dynamic Patterns: The Self-Organization of Brain and Behavior](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0262611317%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840668138%26amp;usg%3DAOvVaw27hFV5m7TceP6qaLEilV8p&sa=D&source=docs&ust=1659283840729384&usg=AOvVaw3m4xMsNTgUChiUNZG9QjBJ)
+- ["Transients, Metastability, and Neuronal Dynamics."](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://www.fil.ion.ucl.ac.uk/~karl/Transients,%252520Metastability,%252520and%252520Neuronal%252520Dynamics.pdf%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840668453%26amp;usg%3DAOvVaw3LROt3xgDeOhyRujHKyacC&sa=D&source=docs&ust=1659283840729477&usg=AOvVaw3glCzBd_qj7cONRIKUnkzW)
+- [The Embodied Mind: Cognitive Science and Human Experience](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0262720213%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840668830%26amp;usg%3DAOvVaw3zW2O5tN4xKQ41YbN9O9aC&sa=D&source=docs&ust=1659283840729659&usg=AOvVaw1MTM0ilNUXJ5tfcGm6UpTa)
+- [The Self Illusion: How the Social Brain Creates Identity](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/019989759X%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840669142%26amp;usg%3DAOvVaw0xOmsQNVNqLsLXfD4bX6GC&sa=D&source=docs&ust=1659283840729758&usg=AOvVaw1riKYJ28BD4BHCQauO8OvG)
+- [That's Disgusting: Unraveling the Mysteries of Repulsion](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0393076474%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840669522%26amp;usg%3DAOvVaw10YyVcAtWRTL4STRS5F9RK&sa=D&source=docs&ust=1659283840729846&usg=AOvVaw06NwsRtRcNwSyD-PXlq5o9)
+- Connectome: How the Brain's Wiring Makes Us Who We Are
+- [The Quest for Consciousness: A Neurobiological Approach](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0974707708/104-0824653-5550364%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840670123%26amp;usg%3DAOvVaw3yLR4a-SUSrYrX-i9GcDAr&sa=D&source=docs&ust=1659283840729966&usg=AOvVaw2Y4p7xR2xVwPNYlkh-e492)
+- [Consciousness: Confessions of a Romantic Reductionist](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0262017490%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840670485%26amp;usg%3DAOvVaw1-q-z6P6Qp1Dv-wDcVy2B3&sa=D&source=docs&ust=1659283840730060&usg=AOvVaw07UkA8geRJAHa_pBJQZuXx)
+- [An Information Integration Theory of Consciousness](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://evans-experientialism.freewebspace.com/tononi.htm%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840670836%26amp;usg%3DAOvVaw2hfhpe4JuoJXWMQAk0MyL9&sa=D&source=docs&ust=1659283840730146&usg=AOvVaw2SzNAmG0v7WI4n61_pn25n)
+- [Neuroscience in the Courtroom: What Every Lawyer Should Know About the Mind and the Brain](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/1933264381%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840671688%26amp;usg%3DAOvVaw02lpA7tcd7KqpxeZ8xUkyu&sa=D&source=docs&ust=1659283840730321&usg=AOvVaw1uggjZGqeIBIA08PnCfEcd)
+- ["Why Most Published Research Findings Are False"](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://www.plosmedicine.org/article/info:doi/10.1371/journal.pmed.0020124%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840672108%26amp;usg%3DAOvVaw3KM9dM4bpRabWgKau0ocZA&sa=D&source=docs&ust=1659283840730410&usg=AOvVaw2BrwjZi48lZaSEOL_ODp1-)
+- [A Different Universe: Reinventing Physics from the Bottom Down](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/gingercampbel-20/detail/0465038298%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840672457%26amp;usg%3DAOvVaw09YHb6vwDuGjznW-4dRf39&sa=D&source=docs&ust=1659283840730497&usg=AOvVaw3ZM3U7AbNHWkZqv5Aos8Gv)
+- [Braintrust: What Neuroscience Tells Us about Morality](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/069113703X%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840672801%26amp;usg%3DAOvVaw0fgDZzV3sQ8VOLMDM_9Zcu&sa=D&source=docs&ust=1659283840730589&usg=AOvVaw3NqjMlhKik2hTZ9KDEzYoN)
+- [Neurophilosophy: Toward a Unified Science of the Mind-Brain](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0262530856%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840673197%26amp;usg%3DAOvVaw3vJc6KlURGSOCgxiRX9gE3&sa=D&source=docs&ust=1659283840730677&usg=AOvVaw1OqNH5byGwC2Me9d027T78)
+- [The Moral Landscape: How Science Can Determine Human Values](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/143917122X%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840673656%26amp;usg%3DAOvVaw3cD5Txt89LT3r4LmTut5XQ&sa=D&source=docs&ust=1659283840730763&usg=AOvVaw1sxCEVwH3c5ORpYckRdeu9)
+- [Mistakes Were Made (But Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0156033909%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840674346%26amp;usg%3DAOvVaw0ZgSxrDhB_15__TXrmBOnF&sa=D&source=docs&ust=1659283840730976&usg=AOvVaw0BIthV2xGFV88uIv2OIn2g)
+- [Placebo Effects: Understanding the mechanisms in health and disease](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0199559120%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840674681%26amp;usg%3DAOvVaw2fiuCw8I2Uf9aigwWbQVCO&sa=D&source=docs&ust=1659283840731093&usg=AOvVaw1Dd-aBsrEV9CAix2F9C5_e)
+- Choke: What the Secrets of the Brain Reveal About Getting It Right When You Have To
+- [The Overflowing Brain: Information Overload and the Limits of Working Memory](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0195372883%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840675239%26amp;usg%3DAOvVaw154kqSa1AOB9KLwAU4xEo7&sa=D&source=docs&ust=1659283840731213&usg=AOvVaw0zKYwKfKKBfPRaydWtlPzx)
+- [Incognito: The Secret Lives of the Brain](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0307377334%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840675538%26amp;usg%3DAOvVaw1WW47J5wPb_YFfIuc0SoOE&sa=D&source=docs&ust=1659283840731301&usg=AOvVaw1ox_GaMCgwDt2mYtOMy2Mm)
+- [Radical Embodied Cognitive Science](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0262013223%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840675861%26amp;usg%3DAOvVaw20sSEYtpev1CyJI7TppWdd&sa=D&source=docs&ust=1659283840731387&usg=AOvVaw1qfJD-RbENKfeD9O1ckkL4)
+- [Memory and the Computational Brain: Why Cognitive Science will Transform Neuroscience](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/1405122889%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840676209%26amp;usg%3DAOvVaw1ffzBrlypvs7PFhVvMJLfL&sa=D&source=docs&ust=1659283840731474&usg=AOvVaw3QFbNiOvoK5W5Gxk1RqsH5)
+- [Sleights of Mind: What the Neuroscience of Magic Reveals about Our Everyday Deceptions](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0805092811%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840676644%26amp;usg%3DAOvVaw1u6KyxIFoGoyqX5vkZp09M&sa=D&source=docs&ust=1659283840731571&usg=AOvVaw36Zl8kf7WvLG8ug33CTgMt)
+- [50 Great Myths of Popular Psychology: Shattering Widespread Misconceptions about Human Be](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/1405131128%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840676999%26amp;usg%3DAOvVaw3nauDAMNj-qTXHSIQx_fCp&sa=D&source=docs&ust=1659283840731675&usg=AOvVaw3DmRnBmW6VYAtWf9MFCquA)
+- [The Ego Tunnel: The Science of the Mind and the Myth of the Self](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0465045677%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840677411%26amp;usg%3DAOvVaw03BscRfBVn8rdXU_vXb-Rg&sa=D&source=docs&ust=1659283840731766&usg=AOvVaw0g9qU9tMcj8Llp7Z4jpfws)[havior](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/1405131128%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840677608%26amp;usg%3DAOvVaw2OxTJAGzALJid1v0DsCYEz&sa=D&source=docs&ust=1659283840731839&usg=AOvVaw1ERpL86tuncu8mz05CVAsz)
+- [What Intelligence Tests Miss: The Psychology of Rational Thought](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/030012385X%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840677907%26amp;usg%3DAOvVaw1ZEpKhinlqUQI3Oxz2o3sj&sa=D&source=docs&ust=1659283840731923&usg=AOvVaw1eLd9O_0l7Kwt1awR_UZmb)
+- [The Other Brain: From Dementia to Schizophrenia, How New Discoveries about the Brain Are Revolutionizing Medicine and Science](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0743291417%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840678312%26amp;usg%3DAOvVaw1ELE9Bg-oQ5jVy2cPB7oIZ&sa=D&source=docs&ust=1659283840732009&usg=AOvVaw1KpKjVCmodmi4jEf2HM9yM)
+- [Glial Neurobiology: A Textbook](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0470015640%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840678704%26amp;usg%3DAOvVaw1GbVboI_FvN3fRc1jMhjaK&sa=D&source=docs&ust=1659283840732104&usg=AOvVaw2b5P-POGrGQRDusn0upZIj)
+- [Making up the Mind: How the Brain Creates Our Mental World](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/1405136944%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840679099%26amp;usg%3DAOvVaw1P23lCjV71xQSScDQDnHxJ&sa=D&source=docs&ust=1659283840732189&usg=AOvVaw2XxZM0kUS2sTEf2ZzGIAvo)
+- [SuperSense: Why We Believe in the Unbelievable](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/gingercampbel-20/detail/0061452645%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840679682%26amp;usg%3DAOvVaw2v1svR1qNmI0InPIYPuWpS&sa=D&source=docs&ust=1659283840732389&usg=AOvVaw1u4N0hfsGrPtKDqHxQMIFU)
+- [Did My Neurons Make Me Do It?: Philosophical and Neurobiological Perspectives on Moral Responsibility and Free Will](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0199568235%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840679960%26amp;usg%3DAOvVaw1tgoD08k6hQH7ziXinvFF2&sa=D&source=docs&ust=1659283840732476&usg=AOvVaw3XcmFha49J4c9geUjw6-gy)
+- [A Nation of Wimps: The High Cost of Invasive Parenting](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0767924037%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840680236%26amp;usg%3DAOvVaw16kLeoaxxwUnFW9RXlBbv_&sa=D&source=docs&ust=1659283840732570&usg=AOvVaw0HnHARQEvReztXASo_FjYe)
+- [Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0809074656%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840680551%26amp;usg%3DAOvVaw0s-LPj5iBFPdjMZ7cYjphu&sa=D&source=docs&ust=1659283840732657&usg=AOvVaw3pz8yrVzHXTAiOogX7AzjJ)
+- [The Dragons of Eden: Speculations on the Evolution of Human Intelligence](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0345346297%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840681061%26amp;usg%3DAOvVaw0mjrR5qfjz2sTbhyrtx01c&sa=D&source=docs&ust=1659283840732757&usg=AOvVaw0wIVAhI_OCL2_Y3Vx3t3VH)
+- [Principles of Brain Evolution](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0878938206/002-2392472-2211269%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840681596%26amp;usg%3DAOvVaw2sm-iBcENU57RZ7Buk0VmD&sa=D&source=docs&ust=1659283840732847&usg=AOvVaw1e3EpotXOwYoDsWC-UivGq)
+- [Neuroscience: Exploring the Brain](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0781760038%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840682053%26amp;usg%3DAOvVaw2IvefMUQ5TITRearWlvL-j&sa=D&source=docs&ust=1659283840732934&usg=AOvVaw0Nfn-_QUQxsdNlWlNpCg_6)
+- [Brain-Wise: Studies in Neurophilosophy](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/026253200X%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840682382%26amp;usg%3DAOvVaw2MOfIYIWCsXV1Wfiuv8f8o&sa=D&source=docs&ust=1659283840733020&usg=AOvVaw3y7FvAwK3XJE1hMvKbY8SC)
+- [Supersizing the Mind: Embodiment, Action, and Cognitive Extension](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0195333217%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840682866%26amp;usg%3DAOvVaw1U0EYAQYhlG1ZZBc2CyxrI&sa=D&source=docs&ust=1659283840733114&usg=AOvVaw0OpTdRC2Ll7YXQdysxasfL)
+- [Liars, Lovers, and Heroes: What the New Brain Science Reveals About How We Become Who We Are](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0060001496%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840683353%26amp;usg%3DAOvVaw0RtaQFbUwQZlH1TjiU_Dxx&sa=D&source=docs&ust=1659283840733201&usg=AOvVaw3c9FcJ1DbBvle5XEPwd_66)
+- [The Really Hard Problem: Meaning in a Material World](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/026206264X%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840683704%26amp;usg%3DAOvVaw3A_OkjO_81A_UwIWKS9PC2&sa=D&source=docs&ust=1659283840733323&usg=AOvVaw3f_OE1VSGZsh7Ei_338Ka7)
+- [Freedom Evolves](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0142003840%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840683978%26amp;usg%3DAOvVaw21Uqrdpn5qrA4YBnxyBGcA&sa=D&source=docs&ust=1659283840733437&usg=AOvVaw3Yxt6A-GSsZ4dTAMf1JoyM)
+- [The Symbolic Species: The Co-Evolution of Language and the Brain](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0393317544%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840684431%26amp;usg%3DAOvVaw02qoBBrLk0L8qeJmrpIaLE&sa=D&source=docs&ust=1659283840733527&usg=AOvVaw2wAzuxTDZoMvy-7URLilb3)
+- Terreance Deacon and Emergence
+- [Big Brain: The Origins and Future of Human Intelligence](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/1403979782/002-2392472-2211269%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840684850%26amp;usg%3DAOvVaw2nucXkW63RQx-7CKDnZe6W&sa=D&source=docs&ust=1659283840733642&usg=AOvVaw0Cea1e2lRoui8DTc_gn5Wi)
+- [Driven To Distraction : Recognizing and Coping with Attention Deficit Disorder from Childhood Through Adulthood](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0684801280/002-2392472-2211269%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840685160%26amp;usg%3DAOvVaw0iJ7jGaa4TPrqF-gU-Z97n&sa=D&source=docs&ust=1659283840733732&usg=AOvVaw39oIJKgTCW3kN8iiviS8GD)
+- [The Mindful Brain: Reflection and Attunement in the Cultivation of Well-Being](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/039370470X/002-2392472-2211269%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840685543%26amp;usg%3DAOvVaw0xcEUwy8kGH6tcUu-yh7j4&sa=D&source=docs&ust=1659283840733834&usg=AOvVaw3sb-TOkyGswTeF0ymWhOYy)
+- [The Seven Sins of Memory: How the Mind Forgets and Remembers](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0618219196/102-0589225-8424144%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840685864%26amp;usg%3DAOvVaw0YPrwdcaX_kxLzL0i5Uwe4&sa=D&source=docs&ust=1659283840733980&usg=AOvVaw2I8aZnWrNhPD2lPQWwD00-)
+- [The Feeling of What Happens: Body and Emotion in the Making of Consciousness](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0156010755/104-0824653-5550364%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840686188%26amp;usg%3DAOvVaw1XvarradjmzCtomuBvS1vg&sa=D&source=docs&ust=1659283840734095&usg=AOvVaw2iAjZGDND9C4U4y6LNJBs6)
+- [Language: Its Structure and Use](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/1413030556/002-2392472-2211269%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840686610%26amp;usg%3DAOvVaw1JjnqVYDn2V-Yr9JthuVRF&sa=D&source=docs&ust=1659283840734188&usg=AOvVaw3xI9GsxHUFG5TNNn6e7SC9)
+- [The Language Instinct: How the Mind Creates Language](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0061336467/002-2392472-2211269%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840687139%26amp;usg%3DAOvVaw0aKJu2VxSw4Al3UpSdMkgG&sa=D&source=docs&ust=1659283840734288&usg=AOvVaw1gI8bQzWGwRX-wstMZERN4)
+- [Brain Rules: 12 Principles for Surviving and Thriving at Work, Home, and School](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0979777704/002-2392472-2211269%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840688106%26amp;usg%3DAOvVaw2R0ztIC4eUOWMrkiEC1gqM&sa=D&source=docs&ust=1659283840734486&usg=AOvVaw1-DCdg7HGeGsmLlWHIpyby)
+- [Predictably Irrational: The Hidden Forces That Shape Our Decisions](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/006135323X/002-2392472-2211269%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840688440%26amp;usg%3DAOvVaw3f1XXHPAlufXDh9njp_21v&sa=D&source=docs&ust=1659283840734659&usg=AOvVaw0_7l-oduhKUhQ9xySAlMGn)
+- [The Scent of Desire: Discovering Our Enigmatic Sense of Smell](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0060825375/002-2392472-2211269%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840689140%26amp;usg%3DAOvVaw1rjEdAVwwWF6Li39-HfmSi&sa=D&source=docs&ust=1659283840734966&usg=AOvVaw3f0g5FAvs1U8BJX8PfkPPX)
+- [Sex Differences in the Brain: From Genes to Behavior](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0195311582/002-2392472-2211269%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840689434%26amp;usg%3DAOvVaw0IFKs10DjxixA8juScrLoX&sa=D&source=docs&ust=1659283840735076&usg=AOvVaw143pk6GGVwqFMHh0fzM3Up)
+- [Second Nature: Brain Science and Human Knowledge](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0300125941/002-2392472-2211269%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840689720%26amp;usg%3DAOvVaw17iBHAzfjLgEqRIV9e6mky&sa=D&source=docs&ust=1659283840735178&usg=AOvVaw2MRzuwQyWkqdCfP5JV7ybr)
+- [Wider Than the Sky: The Phenomenal Gift of Consciousness](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0300107617/002-2392472-2211269%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840690012%26amp;usg%3DAOvVaw2CnUplwdJzjlb1gil7SZ_l&sa=D&source=docs&ust=1659283840735269&usg=AOvVaw1w1UmoGMIcCAXbSdPzUyZF)
+- [Rhythms of the Brain](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0195301064/104-0824653-5550364%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840690286%26amp;usg%3DAOvVaw3ocmsaC4638LEGaln9oCjE&sa=D&source=docs&ust=1659283840735358&usg=AOvVaw3t-8tCxEf2gLCA-rPRLjc_)
+- [The First Word: The Search for the Origins of Language](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0670034908/002-2392472-2211269%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840690662%26amp;usg%3DAOvVaw34DqrqrAVSIIPe8uLHahvi&sa=D&source=docs&ust=1659283840735445&usg=AOvVaw0vMqrFg_RvlB44C6mJZL8E)
+- [The First Idea: How Symbols, Language, and Intelligence Evolved from our Primate Ancestors to Modern Humans](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0738206806/104-0824653-5550364%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840691217%26amp;usg%3DAOvVaw2IN06taY-JVI9RO0dN60Av&sa=D&source=docs&ust=1659283840735538&usg=AOvVaw0sinaiw2w5mffu2n8HxpjS)
+- [Proust and the Squid: The Story and Science of the Reading Brain](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0060186399/104-0824653-5550364%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840691764%26amp;usg%3DAOvVaw2_9fDHLfuKaKOhkHIoZZbE&sa=D&source=docs&ust=1659283840735631&usg=AOvVaw3-xem5sE3ZZowfxyrOwwmn)
+- [Minds and Computers: An Introduction to the Philosophy of Artificial Intelligence](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0748620990/104-0824653-5550364%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840692317%26amp;usg%3DAOvVaw3H6DYyjopFXyrFBlWhPQU5&sa=D&source=docs&ust=1659283840735728&usg=AOvVaw3ds4fTFAQQjsjBusGtKcPb)
+- [Wider Than the Sky: The Phenomenal Gift of Consciousness](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0300107617/104-0824653-5550364%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840692873%26amp;usg%3DAOvVaw3TRiYBd6qIY2FtEkOBCXUU&sa=D&source=docs&ust=1659283840735838&usg=AOvVaw15TAfxjCV5n_0LYnpd3Jy0)
+- T[he Body Has a Mind of Its Own: How Body Maps Help You Do (almost) Everything Better](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/1400064694/104-0824653-5550364%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840693436%26amp;usg%3DAOvVaw1hgYWdLotpj1oZlsLMHUXc&sa=D&source=docs&ust=1659283840735927&usg=AOvVaw28WONko49pGjcZeIqTaSNf)
+- [The Female Brain](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0767920090/104-0824653-5550364%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840693958%26amp;usg%3DAOvVaw14Oa6gnxP8qruRinNTtLtg&sa=D&source=docs&ust=1659283840736024&usg=AOvVaw0lTnYSdYrlRrE2otOzXyYT)
+- [Gut Feelings: The Intelligence of the Unconscious (2007)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0670038636/104-0824653-5550364%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840694376%26amp;usg%3DAOvVaw2Qj4o7q_5D235Q9mdCWfgq&sa=D&source=docs&ust=1659283840736114&usg=AOvVaw1aJp67IpK_HX5SESFaAez-)
+- [Blink: The Power of Thinking Without Thinking](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0316172324/104-0824653-5550364%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840694741%26amp;usg%3DAOvVaw3t4Ngc_C39dUk1yqfW7RR2&sa=D&source=docs&ust=1659283840736202&usg=AOvVaw3wyoqx3IeH1_vrp_uejU0D)
+- The Wisdom Paradox
+- [The Myth of Free Will](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/gingercampbel-20/detail/0970818173/104-0824653-5550364%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840695322%26amp;usg%3DAOvVaw2YA1V2KR0OC9WMKafemda0&sa=D&source=docs&ust=1659283840736315&usg=AOvVaw2hIzCdPCz0ilbv5rlBZElV)
+- [The Executive Brain: Frontal Lobes and the Civilized Mind](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0195156307/104-0824653-5550364%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840695852%26amp;usg%3DAOvVaw0xthri2k5mbjRIrppS-bmu&sa=D&source=docs&ust=1659283840736426&usg=AOvVaw1xOLYJop1g01IiQW1rwTYK)
+- [Why Choose this Book? How we Make Decisions](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0525949828/104-0824653-5550364%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840696370%26amp;usg%3DAOvVaw110xB43PqfAVaMcxrREr71&sa=D&source=docs&ust=1659283840736550&usg=AOvVaw10UqrGtZrblHtjcZOe_AQQ)
+- [Memory: From Mind to Molecules](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0805073450%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840696858%26amp;usg%3DAOvVaw30kHD6PycHnhEeIxGyC__O&sa=D&source=docs&ust=1659283840736762&usg=AOvVaw0VDxki0YlK_c1kiqlf_sLx)
+- [Emotion: The Science of Sentiment](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/019285433X/104-0824653-5550364%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840697396%26amp;usg%3DAOvVaw1JgchbNEEzq-fa2pXXinH3&sa=D&source=docs&ust=1659283840736855&usg=AOvVaw2bdvqAWDmXhPhl_pTlUOlK)
+- [The Future of the Brain: The Promise and Perils of Tomorrow's Neuroscience](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/019530893X/104-0824653-5550364%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840697825%26amp;usg%3DAOvVaw25akmy67XdejR2FJIJUfZS&sa=D&source=docs&ust=1659283840736946&usg=AOvVaw0WeFQbklsCHNZvSk9spk_x)
+- [The Conscious Mind](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://consc.net/the-conscious-mind/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840698199%26amp;usg%3DAOvVaw2FA8ma-VYuQf1TV4zuhItw&sa=D&source=docs&ust=1659283840737041&usg=AOvVaw1spwyevcrtOSD4a-x6dedD)
+- [The Character of Consciousness](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://consc.net/the-character-of-consciousness/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840698465%26amp;usg%3DAOvVaw0T5HVHUw2B4svE2_MTRJ4W&sa=D&source=docs&ust=1659283840737130&usg=AOvVaw2xq-vx-v42CHAE6Ghr2-ni)
+- [Constructing the W](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://consc.net/constructing-the-world/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840698718%26amp;usg%3DAOvVaw1wAxc2UTzfLxZqR01LnMy7&sa=D&source=docs&ust=1659283840737214&usg=AOvVaw1gcsAqaKI0RNgs6u-jVjQS)[orld](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://consc.net/constructing-the-world/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840698864%26amp;usg%3DAOvVaw0GbxM80N1Hf2PiOGSiXoL2&sa=D&source=docs&ust=1659283840737280&usg=AOvVaw35FdqhsiPSXap_FEV2zAC7)
+- [Philosophy of Mind: Classical and Contemporary Readings](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://consc.net/philosophy-of-mind-classical-and-contemporary-readings/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840699339%26amp;usg%3DAOvVaw0S4FDCuk-dS7ai9_0z-aZE&sa=D&source=docs&ust=1659283840737393&usg=AOvVaw3vPu3P2u-QVTs8-lw3dVsO)
+- [Metametaphysics](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://consc.net/metametaphysics/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840699639%26amp;usg%3DAOvVaw0u67wxKmXWW9A9KxtsmQJi&sa=D&source=docs&ust=1659283840737481&usg=AOvVaw1-fjWTBXCgg3C519D7Tpad)
+- [Explaining Consciousness: The Hard Problem](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://consc.net/explaining-consciousness-the-hard-problem/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840699905%26amp;usg%3DAOvVaw2PszkjIq3gDSZnepV-3Cft&sa=D&source=docs&ust=1659283840737724&usg=AOvVaw0BhTOl7XnWcBCg2yKdE3kd)
+- From Neuron To Brain
+- [Challenging Nature: The Clash of Science and Spirituality at the New Frontiers of Life](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/gingercampbel-20/detail/0060582685/104-0824653-5550364%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840700585%26amp;usg%3DAOvVaw09PgGw5mrG73JHz3aQPAC5&sa=D&source=docs&ust=1659283840737846&usg=AOvVaw3hKGt8LA5_LwpCwYbvjCbX)
+- [Conversations on Consciousness: What the Best Minds Think about the Brain, Free Will, and What It Means to Be Human, by Susan Blackmore:](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0195179595/104-0824653-5550364%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840701101%26amp;usg%3DAOvVaw3Mbn_FyfH7V1KU9KoLW4kq&sa=D&source=docs&ust=1659283840737940&usg=AOvVaw2c-Ostg4_Z_LXL0bTrn5fN)
+- [Consciousness: An Introduction, by Susan Blackmore](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/019515343X/104-0824653-5550364%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840701621%26amp;usg%3DAOvVaw1p4ZceyyrVooCIGBwDqx-4&sa=D&source=docs&ust=1659283840738041&usg=AOvVaw01o8nWpqjvINOX1YklAKv-)
+- [Consciousness: A Very Short Introduction,  by Susan Blackmore:](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0192805851/104-0824653-5550364%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840702140%26amp;usg%3DAOvVaw0T4fEoBKseO9-WNqBcUilr&sa=D&source=docs&ust=1659283840738137&usg=AOvVaw1Fca6dHHJPQPDr_sW_aspu)
+- [In Search of Memory: The Emergence of a New Science of Mind](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0393329372/104-0824653-5550364%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840702593%26amp;usg%3DAOvVaw3g6VGAhGZRJD9u3VHTAf0C&sa=D&source=docs&ust=1659283840738227&usg=AOvVaw2bVyVhB4SRlPGKsNGdgr3-)
+- [Mind Wide Open](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://astore.amazon.com/docartemis-brainscience-20/detail/0743241665/104-0824653-5550364%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840702940%26amp;usg%3DAOvVaw3CZjynIRwXqhwhF8FbIFAB&sa=D&source=docs&ust=1659283840738317&usg=AOvVaw1DhhVrc4mc_-51tRGofW6a)
+- [Innate: How the Wiring of Our Brains Shapes Who We Are](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://amzn.to/2XqrGVi%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1659283840703216%26amp;usg%3DAOvVaw0BubzG1pEdr-NHs8L2z7AN&sa=D&source=docs&ust=1659283840738399&usg=AOvVaw2UY7xUQ2nKZGgbUB7cAY9n)
+- This is Your Brain on God: Algorithmic Psychology for Suffering Bio-Computers
+- Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain for Life
+- The Mind-Gut Connection: How the Hidden Conversation Within Our Bodies Impacts Our Mood, Our Choices, and Our Overall Health
+- The Psychobiotic Revolution: Mood, Food, and the New Science of the Gut-Brain Connection
+- The Biology of Belief 10th Anniversary Edition: Unleashing the Power of Consciousness, Matter & Miracles
+- Why Would Anyone Believe in God? (Cognitive Science of Religion Series)
+- Philosophical Foundations of the Cognitive Science of Religion: A Head Start (Scientific Studies of Religion: Inquiry and Explanation)
+- Why God Won't Go Away: Brain Science and the Biology of Belief
+- The Honeymoon Effect: The Science of Creating Heaven on Earth
+- The Wisdom of Your Cells: How Your Beliefs Control Your Biology
+- Without God: Science, Belief, Morality, and the Meaning of Life
+- Rethinking Consciousness: A Scientific Theory of Subjective Experience
+- The Deep History of Ourselves: The Four-Billion-Year Story of How We Got Conscious Brains
+- The Feeling of Life Itself: Why Consciousness Is Widespread but Can't Be Computed.
+
+
+* **Organizations that provide conferences and events that support general and medical device specific cybersecurity education needs**
+- H-ISAC: Webinars, working groups, and annual spring and fall workshops
+- HIMSS: Online resources, webinars, and annual conference
+- AAMI: Online resources, webinars, and annual conference
+- Health Technology Alliance (HTA): A cooperation of HIMSS, AAMI, and AACE
+- AdvaMed: Online resources, webinars, and MedTech conferences
+- Archimedes 101 Conference
+- Q1 Productions: Various events focused on select topics (security engineering, regulatory, etc.)
+- MedTech Intelligence: Online resources, webinars
+
+* **Organizations that provide security education and certifications**
+- SANS
+- ISC2
+- Center for Internet Security (CIS)
+- ISACA
+- CompTIA
+- OWASP
+- NACD
+
+
+* **Literature & Online Resources**
+- NIST
+- NCCoE
+- DHS
+- ENISA
+- NACD Director’s Handbook on Cyber-Risk Oversight
+- Health Care Industry Cybersecurity Task Force
+- Health Care & Public Health Sector Coordinating Council
+- The Cyber Security Book of Knowledge
+- CIS Security Benchmark Mapping Guidance
+- OWASP Secure Medical Device Deployment Standard
+- IEEE Computer Society: Building Code for Medical Device Software Security
