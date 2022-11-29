@@ -236,34 +236,34 @@ Hello guys, as you may/not know, I want to become a Neuroscientist, so I'd like 
 
 
 * **Organizations that provide conferences and events that support general and medical device specific cybersecurity education needs**
-- H-ISAC: Webinars, working groups, and annual spring and fall workshops
-- HIMSS: Online resources, webinars, and annual conference
-- AAMI: Online resources, webinars, and annual conference
-- Health Technology Alliance (HTA): A cooperation of HIMSS, AAMI, and AACE
-- AdvaMed: Online resources, webinars, and MedTech conferences
-- Archimedes 101 Conference
-- Q1 Productions: Various events focused on select topics (security engineering, regulatory, etc.)
-- MedTech Intelligence: Online resources, webinars
+  - H-ISAC: Webinars, working groups, and annual spring and fall workshops
+  - HIMSS: Online resources, webinars, and annual conference
+  - AAMI: Online resources, webinars, and annual conference
+  - Health Technology Alliance (HTA): A cooperation of HIMSS, AAMI, and AACE
+  - AdvaMed: Online resources, webinars, and MedTech conferences
+  - Archimedes 101 Conference
+  - Q1 Productions: Various events focused on select topics (security engineering, regulatory, etc.)
+  - MedTech Intelligence: Online resources, webinars
 
 * **Organizations that provide security education and certifications**
-- SANS
-- ISC2
-- Center for Internet Security (CIS)
-- ISACA
-- CompTIA
-- OWASP
-- NACD
+  - SANS
+  - ISC2
+  - Center for Internet Security (CIS)
+  - ISACA
+  - CompTIA
+  - OWASP
+  - NACD
 
 
 * **Literature & Online Resources**
-- NIST
-- NCCoE
-- DHS
-- ENISA
-- NACD Director’s Handbook on Cyber-Risk Oversight
-- Health Care Industry Cybersecurity Task Force
-- Health Care & Public Health Sector Coordinating Council
-- The Cyber Security Book of Knowledge
-- CIS Security Benchmark Mapping Guidance
-- OWASP Secure Medical Device Deployment Standard
-- IEEE Computer Society: Building Code for Medical Device Software Security
+  - NIST
+  - NCCoE
+  - DHS
+  - ENISA
+  - NACD Director’s Handbook on Cyber-Risk Oversight
+  - Health Care Industry Cybersecurity Task Force
+  - Health Care & Public Health Sector Coordinating Council
+  - The Cyber Security Book of Knowledge
+  - CIS Security Benchmark Mapping Guidance
+  - OWASP Secure Medical Device Deployment Standard
+  - IEEE Computer Society: Building Code for Medical Device Software Security
